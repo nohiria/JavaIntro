@@ -13,7 +13,7 @@ import java.util.Scanner;
  * if the user enters 1600 minutes, the system should calculate its equivalent:
  * 1 day, 2 hours.
  */
-public class ex01ConvertMinsToDaysAndHours {
+public class Ex01ConvertMinsToDaysAndHours {
 
     /**
      * The main method that interacts with the user and calls the conversion

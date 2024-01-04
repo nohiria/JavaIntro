@@ -16,7 +16,7 @@ Functions
 
 ...
 Extra Exercises
-[anchor]([https://enlace.tld](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/ex01ConvertMinsToDaysAndHours.java) "Extra Exercises 01: Convert minutes to days and hours")
+[Extra Exercises 01: Convert minutes to days and hours](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/ex01ConvertMinsToDaysAndHours.java)
 ...
 
 ## :grey_question: How to Use

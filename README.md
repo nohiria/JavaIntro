@@ -6,17 +6,17 @@ This repository contains a collection of introductory Java exercises covering fu
 ...
 ### Loops
 ...
-Arrays
+### Arrays
 
 ...
-Matrices
+### Matrices
 
 ...
-Functions
+### Functions
 
 ...
-Extra Exercises
-[Extra Exercises 01: Convert minutes to days and hours](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/ex01ConvertMinsToDaysAndHours.java)
+### Extra Exercises
+* [Extra Exercises 01: Convert minutes to days and hours](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/ex01ConvertMinsToDaysAndHours.java)
 ...
 
 ## :grey_question: How to Use

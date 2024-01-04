@@ -37,7 +37,14 @@ public class Ex01ConvertMinsToDaysAndHours {
             scan.close();
         }
     }
-
+    
+    /**
+     * Prompts the user to enter a non-negative number of minutes until a valid
+     * input is provided.
+     * 
+     * @param scan The Scanner object to read user input.
+     * @return The valid input minutes as a double.
+     */
     public static double getValidMinutesFromUser(Scanner scan) {
         double min = -1;
 

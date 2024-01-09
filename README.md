@@ -16,7 +16,9 @@ This repository contains a collection of introductory Java exercises covering fu
 
 ...
 ### Extra Exercises
-* [Convert minutes to days and hours](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/ex01ConvertMinsToDaysAndHours.java)
+* [Minutes to days and hours converter](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/ex01ConvertMinsToDaysAndHours.java)
+* [Variable Swapper](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/Ex02VariableSwap.java)
+* [Vowel checker](https://github.com/nohiria/JavaIntro/blob/main/src/extraExercises/Ex03isAVowel.java)
 ...
 
 ## :grey_question: How to Use

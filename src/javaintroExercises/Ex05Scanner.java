@@ -8,7 +8,7 @@ package javaintroExercises;
 import java.util.Scanner;
 
 /**
- * A java program to demostrate the usage of the Scanner class to read and input
+ * A java program to demonstrate the usage of the Scanner class to read and input
  * from the user, specifically capturing and name and an age. It then prints a 
  * welcome message using the providen information.
  */
